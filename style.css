@@ -88,26 +88,24 @@ header nav ul li a{
     font-weight: bolder;
     margin-top: 20px;
 }
-.education table,th,tr,td{
-    border: 1px solid #0D5C63;
-    border-collapse: collapse;
-    color: #115256;
+.personal h3,
+p {
+  color: #0d5c63;
+  font-weight: bolder;
+  margin-top: 20px;
 }
 
-.education table th, td{
-    padding: 10px;
+.personal details,
+summary,
+ul,
+li {
+  color: #0d5c63;
+  font-weight: bolder;
+  margin-top: 20px;
 }
-.personal h3,p{
-    color: #0D5C63;
-    font-weight: bolder;
-    margin-top: 20px;  
+.personal strong {
+  color: rgb(16, 1, 1);
 }
-
-.personal details,summary,ul,li{
-    color: #0D5C63;
-    font-weight: bolder;
-    margin-top: 20px;  
-}
-.personal strong{
-    color:rgb(16, 1, 1)
+hr {
+  line-height: 10%;
 }
